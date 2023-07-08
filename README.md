@@ -1,3 +1,7 @@
+[![Java CI with Maven](https://github.com/av-starodub/java-project-voting-for-restaurants/actions/workflows/javaci.yml/badge.svg)](https://github.com/av-starodub/java-project-voting-for-restaurants/actions/workflows/javaci.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/2e0eab04395fe72f07b0/maintainability)](https://codeclimate.com/github/av-starodub/java-project-voting-for-restaurants/maintainability)
+[![codecov](https://codecov.io/gh/av-starodub/java-project-voting-for-restaurants/branch/master/graph/badge.svg?token=ZJxHJ2IHEK)](https://codecov.io/gh/av-starodub/java-project-voting-for-restaurants)
+---------------------------
 ## Голосование за рестораны
 #### Выпускной проект [стажировки TopJava](https://javaops.ru/view/topjava)
 
